@@ -136,10 +136,6 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the ISC License. See the LICENSE file for details.
 
-## Screenshots
-
-*Add screenshots of the app here, such as the dashboard, workout page, and authentication screens.*
-
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact the maintainers.
